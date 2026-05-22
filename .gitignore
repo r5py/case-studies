@@ -1,0 +1,15 @@
+.virtualenv
+.virtualenv/*
+.virtualenv/**
+*~
+**/*~
+*.swp
+**/*.swp
+*.pyc
+**/*.pyc
+.DS_Store
+*/.DS_Store
+**/.DS_Store
+
+**/.ipynb_checkpoints
+jupyter_execute/

@@ -1,0 +1,2 @@
+jupyterlab
+r5py[dev,docs,tests]
