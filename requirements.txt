@@ -1,2 +1,8 @@
+contextily
+geopandas
+h3
 jupyterlab
+matplotlib
+numpy
 r5py[dev,docs,tests]
+shapely
