@@ -1,0 +1,7 @@
+#!/bin/bash
+
+set -xeu
+
+# copy jupyter lab config (myst == notebook)
+mkdir -p "${HOME}/.jupyter/labconfig/"
+cp ".binder/labconfig"/* "${HOME}/.jupyter/labconfig/"
